@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="53.352">
+    <testcase classname="Kullanici bir urun secip sepete ekleyebilmeli ve odeme yapabilmelidir" name="Kullanici sectigi urunu alabilmedir" time="52.814">
+        <system-out>
+            <![CDATA[Given Kullanici "A101AnaSayfa" ya gider.....................................passed
+And Kullanici Cookiesi kabul eder...........................................passed
+Then Kullanici uyelik olusturmadan Giyim Aksesuardan Kadin Ic Giyim kismini daha sonra Dizalti Corap bolumunu secer.passed
+And Siyah corap secer.......................................................passed
+And Secilen corabin siyah oldugunu dogrular.................................passed
+Then Sepete Ekle butonuna tiklar............................................passed
+And Sepeti Goruntule butonuna tiklar........................................passed
+And Sepeti Onayla butonuna tiklar...........................................passed
+Then Uye Olmadan Devam et butonuna tiklar...................................passed
+And Ekrandaki E-mail kutusuna gecerli bir email girer ve devam et butonuna tiklar.passed
+And Yeni adres olustur kismina tiklar.......................................passed
+And Gelen ekrana gecerli adres bilgilerini girer ve Kaydet butonuna tiklar..passed
+And Kargo sirketi secimi yaparak Kaydet ve Devam et butonuna tiklar.........passed
+And Kullanici odeme ekranina gidildigini dogrular ve Siparisi Tamamla butonuna tiklar.passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
