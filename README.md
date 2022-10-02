@@ -1,12 +1,14 @@
 # A101-Project
 UI automation done
+
 Used by:
-  /Tool: Selenium WebDriver, Maven
+
+  -Tool: Selenium WebDriver, Maven
   
-  /Framework: Cucumber BDD, POM
+  -Framework: Cucumber BDD, POM
   
-  /Language: Java
+  -Language: Java
   
-  /IDE: Intellij
+  -IDE: Intellij
   
   
